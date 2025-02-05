@@ -1,0 +1,14 @@
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/bin/Debug/net8.0/Fauna
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/bin/Debug/net8.0/Fauna.deps.json
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/bin/Debug/net8.0/Fauna.runtimeconfig.json
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/bin/Debug/net8.0/Fauna.dll
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/bin/Debug/net8.0/Fauna.pdb
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.AssemblyInfoInputs.cache
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.AssemblyInfo.cs
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.csproj.CoreCompileInputs.cache
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.dll
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/refint/Fauna.dll
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.pdb
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.genruntimeconfig.cache
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/ref/Fauna.dll

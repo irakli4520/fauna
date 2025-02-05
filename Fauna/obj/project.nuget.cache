@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHd6tSbQ4uA=",
+  "success": true,
+  "projectFilePath": "/Users/irakli/Projects/rider/dvali/Fauna/Fauna/Fauna.csproj",
+  "expectedPackageFiles": [
+    "/Users/irakli/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
