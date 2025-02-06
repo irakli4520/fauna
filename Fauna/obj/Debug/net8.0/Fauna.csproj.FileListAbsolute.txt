@@ -12,3 +12,4 @@
 /Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.pdb
 /Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.genruntimeconfig.cache
 /Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/ref/Fauna.dll
+/Users/irakli/Projects/rider/dvali/Fauna/Fauna/obj/Debug/net8.0/Fauna.sourcelink.json

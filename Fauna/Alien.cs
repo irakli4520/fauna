@@ -9,7 +9,6 @@ namespace Fauna
         public Alien()
         {
             Console.WriteLine("Alien was created");
-            PrintAlien();
         }
 
         protected void PrintAlien()

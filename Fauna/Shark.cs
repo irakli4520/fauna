@@ -10,12 +10,11 @@ namespace Fauna
         {
             Console.WriteLine("Shark was created");
             SharkBite();
-            Name = name;
         }
         
         protected void SharkBite()
         {
-            Console.WriteLine("Shard bited you!");
+            Console.WriteLine("Shark bited you!");
         }
     }
 }
