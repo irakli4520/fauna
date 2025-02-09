@@ -9,10 +9,9 @@ namespace Fauna
         public Bee()
         {
             Console.WriteLine("Bee was created");
-            Honey();
         }
         
-        protected void Honey()
+        public void Honey()
         {
             Console.WriteLine("Bee giving honey");
         }
