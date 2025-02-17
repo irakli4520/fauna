@@ -9,11 +9,16 @@ namespace Fauna
         public Alien()
         {
             Console.WriteLine("Alien was created");
+            Coco();
         }
 
         public void Photo()
         {
             Console.WriteLine("No photos");
+        }
+
+        protected void Coco()
+        {
             Console.WriteLine("test");
         }
     }
